@@ -1,2 +1,2 @@
-# configrepo
-配置中心
+# spring cloud demo
+spring cloud demo
